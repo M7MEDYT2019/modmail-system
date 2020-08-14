@@ -1,5 +1,5 @@
 {
-    "token":"placez votre token ici",
+    "token":"place your token here",
     "owners": ["ID", "ID", "ETC"],
-    "serverID": "L'ID de votre serveur"
+    "serverID": "The ID of your server"
 }
